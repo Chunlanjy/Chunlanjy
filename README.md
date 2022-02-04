@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chunlanjy
+- 👋 Hi, I’m Chunlan :)
 - 👀 I am interested in ML, hiking 
 - 🌱 I’m currently learning Computer Science 
 
