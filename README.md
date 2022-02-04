@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chunlan :)
-- 👀 I am interested in ML, hiking 
+- 👀 I am interested in ML, Hiking 
 - 🌱 I’m currently learning Computer Science 
 
 <!---
